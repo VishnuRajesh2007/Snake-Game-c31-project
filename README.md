@@ -1,1 +1,2 @@
-# Snake-Game-c31-project
+# Snake Game
+Snake game project C31
